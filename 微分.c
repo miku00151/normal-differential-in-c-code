@@ -4,7 +4,7 @@ int sum[9999999999];
 int max =0;
 int main(){
 	int i,j,k;
-	printf("Welcome to the differential program.\nYou can use degree is 1 to 999999999.\n\n");
+	printf("Welcome to the differential program.\nYou can use degree is 1 to 999999999.\ndesing by MJR Studio Brandy\n\n");
 	start:
 	printf("please input a max degree:");
 	scanf("%d",&max);
